@@ -1,0 +1,5 @@
+Lights out game can produce a graphic display.
+An instance of Lights Out consists of an n × n-grid of cells, each of which can be either on or off.
+When the game begins, we specify an initial configuration of on and off cells. 
+Lights Out is a one-player game. Once the cells are configured, 
+the player chooses a cell and turns it on if it is off, and off if it is on.
